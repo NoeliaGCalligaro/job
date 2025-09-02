@@ -91,5 +91,5 @@ Todas las visualizaciones se generaron con una **paleta verde-azulada** para man
 
 ---
 
-📌 Autor: *[Tu Nombre]*  
+📌 Autor: Noelia Calligaro
 📅 Fecha: *2025*  
