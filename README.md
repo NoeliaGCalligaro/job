@@ -60,13 +60,9 @@ Todas las visualizaciones se generaron con una **paleta verde-azulada** para man
 ```
 ├── data/
 │   ├── ai_job_dataset.csv          # Dataset original
-│   ├── ai_job_dataset_final.csv    # Dataset limpio
-├── notebooks/
-│   ├── etl_final.ipynb             # Proceso ETL
-│   ├── eda_final.ipynb             # Análisis EDA
-├── reports/
-│   ├── Informe_EDA_AI_Jobs.docx    # Informe con gráficos
-│   └── Informe_EDA_AI_Jobs.pdf     # Informe exportado a PDF
+│   ├── ai_job_dataset_clean.csv    # Dataset limpio
+├── eda_final.ipynb             # Análisis EDA
+└── Informe_EDA_AI_Jobs.pdf     # Informe exportado a PDF
 ├── README.md                       # Documentación del proyecto
 ```
 
